@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "upcomingRelease": {
+    "id": "hot-one",
+    "title": "HOT ONE",
+    "subtitle": "HAM Ñ CHEEZ • Official Single Release",
+    "date": "2026-11-13T09:00:00-06:00",
+    "timeZoneID": "America/Chicago",
+    "coverImageName": "hot_one_cover",
+    "presaveUrl": null
+  },
+  "shows": [
+    {
+      "id": "show-001",
+      "venue": "Debstep & Friends",
+      "city": "Chicago, IL",
+      "date": "2026-11-13T21:00:00-06:00",
+      "timeZoneID": "America/Chicago",
+      "ticketUrl": "https://metrochicago.com",
+      "note": "A night with da bois",
+      "flyerImageName": "show_flyer",
+      "latitude": 41.9399,
+      "longitude": -87.6587,
+      "setlist": null
+    },
+    {
+      "id": "show-002",
+      "venue": "Summers Last Dance Music Festival",
+      "city": "Bridgeview, IL",
+      "date": "2026-08-22T20:00:00-05:00",
+      "timeZoneID": "America/Chicago",
+      "ticketUrl": "https://summerslastdance.com",
+      "note": "Summers Last Dance Music Festival",
+      "flyerImageName": null,
+      "latitude": 41.7651,
+      "longitude": -87.8043,
+      "setlist": []
+    },
+    {
+      "id": "show-003",
+      "venue": "North Coast Music Festival",
+      "city": "Bridgeview, IL",
+      "date": "2026-09-06T15:00:00-05:00",
+      "timeZoneID": "America/Chicago",
+      "ticketUrl": "https://www.northcoastfestival.com",
+      "note": "First Music Festival, LFG!",
+      "flyerImageName": null,
+      "latitude": 41.7651,
+      "longitude": -87.8043,
+      "setlist": []
+    }
+  ],
+  "releases": [
+    {
+      "id": "rel-001",
+      "title": "HAM Ñ CHEEZ B2B 8TH LIFE. - SUMMERS LAST DANCE 2026 MIX",
+      "releaseType": "MIX", "releaseYear": "2026",
+      "coverImageName": "sld26_mix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-b2b-8th-life" }
+    },
+    {
+      "id": "rel-002",
+      "title": "HAM Ñ CHEEZ - Live @ North Coast Music Festival - The Shipyard Stage",
+      "releaseType": "MIX", "releaseYear": "2026",
+      "coverImageName": "ncmf26_mix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-live-north-coast" }
+    },
+    {
+      "id": "rel-003",
+      "title": "Big Gigantic & AVELLO - Psychedelic Symphony (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX", "releaseYear": "2026",
+      "coverImageName": "ps_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/psychedelic-symphony-ham-n-3" }
+    },
+    {
+      "id": "rel-004",
+      "title": "Gouda & Gabana",
+      "releaseType": "SINGLE", "releaseYear": "2026",
+      "coverImageName": "gg_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/gouda-gabana" }
+    },
+    {
+      "id": "rel-005",
+      "title": "RUÑ",
+      "releaseType": "SINGLE", "releaseYear": "2026",
+      "coverImageName": "run_cover", "coverArtSymbol": "sparkles.rectangle.stack.fill", "accent": "purple",
+      "links": {
+        "spotify": "https://open.spotify.com/album/0PTN4LagcETan2XPrVfupa",
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/run",
+        "appleMusic": "https://music.apple.com/us/album/ru%C3%B1/6783249470?i=6783249471",
+        "youtube": "https://music.youtube.com/watch?v=xaLSspfFPPw"
+      }
+    },
+    {
+      "id": "rel-006",
+      "title": "Noirkxtty - Rotten (HAM Ñ CHEEZ FLIP)",
+      "releaseType": "FLIP", "releaseYear": "2026",
+      "coverImageName": "rotten_flip_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/rotten-noirkxxty-ham-n-cheez" }
+    },
+    {
+      "id": "rel-007",
+      "title": "John Summit - LIGHTS GO OUT (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX", "releaseYear": "2026",
+      "coverImageName": "lgo_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/lightsgoout" }
+    },
+    {
+      "id": "rel-008",
+      "title": "VIBRATE",
+      "releaseType": "SINGLE", "releaseYear": "2026",
+      "coverImageName": "vibrate_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "appleMusic": "https://music.apple.com/us/album/vibrate/1870415458?i=1870415459" }
+    },
+    {
+      "id": "rel-009",
+      "title": "Fresh Off The Griddle (Showcase Mix)",
+      "releaseType": "MIX", "releaseYear": "2026",
+      "coverImageName": "fotgv1_mix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/9454719d-515b-4fe2-8c31-61e377dfd43d" }
+    },
+    {
+      "id": "rel-010",
+      "title": "BONNIE X CLYDE - When The Silence Breaks (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX", "releaseYear": "2026",
+      "coverImageName": "wtsb_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/silence_breaks_140-ham-n-cheez" }
+    },
+    {
+      "id": "rel-011",
+      "title": "RETRACED - Nurko x Haliene (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX", "releaseYear": "2026",
+      "coverImageName": "retraced_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/retraced-nurko-x-haliene-hnc" }
+    },
+    {
+      "id": "rel-012",
+      "title": "Deli Special EP",
+      "releaseType": "EP", "releaseYear": "2026",
+      "coverImageName": "ds_ep_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": {}
+    },
+    {
+      "id": "rel-013",
+      "title": "Marshmello - Just Can't Stop (HAM Ñ CHEEZ) Remix",
+      "releaseType": "REMIX", "releaseYear": "2026",
+      "coverImageName": "jcs_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/marshmello-just-cant-stop-ham" }
+    }
+  ],
+  "merch": [
+    {
+      "id": "merch-001", "title": "HAM Ñ CHEEZ Tour Hoodie", "category": "Apparel", "price": "$75.00",
+      "iconSymbol": "tshirt.fill", "imageName": null, "isSoldOut": true,
+      "orderUrl": "https://store.hamncheez.com/hoodie"
+    },
+    {
+      "id": "merch-002", "title": "Gouda & Gabana Vintage Tee", "category": "Apparel", "price": "$38.00",
+      "iconSymbol": "tshirt", "imageName": null, "isSoldOut": true,
+      "orderUrl": "https://store.hamncheez.com/tee"
+    }
+  ],
+  "goodies": [
+    {
+      "id": "goodie-bootleg", "title": "VIP Bootleg Pack", "subtitle": "Unreleased VIP edits from the tour.",
+      "icon": "arrow.down.circle.fill", "url": null, "unlock": "signup"
+    },
+    {
+      "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
+      "icon": "photo.fill", "url": null, "unlock": "checkin"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "recipe-001",
+      "name": "The Tour Bus Classic Toasted Brioche",
+      "tag": "Artist Staple",
+      "prepTime": "8 mins",
+      "ingredients": [
+        "2 thick slices of brioche or challah bread",
+        "4 slices of high-grade smoked black forest ham",
+        "2 slices of aged Gruyère cheese (or sharp Swiss)",
+        "1 tbsp salted butter (room temperature)",
+        "1 tsp whole-grain Dijon mustard",
+        "Pinch of cracked black pepper"
+      ],
+      "instructions": [
+        "Generously butter the outside of each brioche slice.",
+        "Spread whole-grain Dijon on the inside of one slice.",
+        "Layer one slice of Gruyère, all the smoked ham folded loosely for airflow, the second Gruyère slice, and cracked pepper.",
+        "Heat a cast iron skillet over medium-low heat. Toast sandwich for 3 minutes per side with a light press until golden brown and the cheese is thoroughly melted."
+      ],
+      "artistNote": "Our 2:00 AM post-soundcheck ritual. Low heat is key so the Gruyère gets molten before the brioche burns."
+    },
+    {
+      "id": "recipe-002",
+      "name": "Hot Honey & Smoked Gouda Melt",
+      "tag": "Sweet & Spicy",
+      "prepTime": "10 mins",
+      "ingredients": [
+        "2 slices artisan sourdough",
+        "3 slices honey-cured ham",
+        "2 slices smoked Gouda cheese",
+        "1 tbsp hot chili honey",
+        "1 tbsp garlic-herb butter"
+      ],
+      "instructions": [
+        "Melt garlic butter across the exterior sourdough crust.",
+        "Drizzle hot honey over the ham slices before placing in the sandwich.",
+        "Layer Gouda on both top and bottom to lock in moisture.",
+        "Pan sear for 3.5 minutes per side until the crust is deeply crunchy and caramelized."
+      ],
+      "artistNote": "Inspired by late-night diner runs after playing Nashville."
+    }
+  ],
+  "socialLinks": [
+    { "id": "soundcloud", "title": "SoundCloud", "icon": "waveform", "url": "https://soundcloud.com/ham-cheez-292446343" }
+  ]
+}
