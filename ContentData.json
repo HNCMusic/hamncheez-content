@@ -173,7 +173,7 @@
       
     {
       "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
-      "icon": "photo.fill", "url": null, "unlock": "checkin"
+      "icon": "photo.fill", "url": null, "unlock": "free", "destination": "wallpapers"
     }
   ],
   "wallpapers": [
