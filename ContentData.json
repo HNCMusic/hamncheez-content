@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "upcomingRelease": {
     "id": "hot-one",
     "title": "HOT ONE",
@@ -291,5 +291,13 @@
       "url": "https://soundcloud.com/ham-cheez-292446343"
     }
   ],
-  "wallpapers": []
+  "wallpapers": [
+    { "id": "wp-001", "title": "NIGHTMODE LOGO", "imageName": "bw_logo" },
+    { "id": "wp-002", "title": "The Classic", "imageName": "color_logo" },
+    { "id": "wp-003", "title": "Just Can't Stop Remix", "imageName": "jcs_wallpaper" },
+    { "id": "wp-004", "title": "The Butcher", "imageName": "butcher_wallpaper" },
+    { "id": "wp-005", "title": "Just Can't Stop Remix", "imageName": "jcs_wallpaper" },
+    { "id": "wp-006", "title": "Spring Awaynekening EVENT", "imageName": "waynekening_wallpaper" },
+    { "id": "wp-006", "title": "A Space Odyssey", "imageName": "space_wallpaper" }
+  ],
 }
