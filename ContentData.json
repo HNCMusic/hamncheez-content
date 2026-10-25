@@ -296,8 +296,8 @@
     { "id": "wp-002", "title": "The Classic", "imageName": "color_logo" },
     { "id": "wp-003", "title": "Just Can't Stop Remix", "imageName": "jcs_wallpaper" },
     { "id": "wp-004", "title": "The Butcher", "imageName": "butcher_wallpaper" },
-    { "id": "wp-005", "title": "Just Can't Stop Remix", "imageName": "jcs_wallpaper" },
+    { "id": "wp-005", "title": "RUN", "imageName": "run_wallpaper" },
     { "id": "wp-006", "title": "Spring Awaynekening EVENT", "imageName": "waynekening_wallpaper" },
-    { "id": "wp-006", "title": "A Space Odyssey", "imageName": "space_wallpaper" }
+    { "id": "wp-007", "title": "A Space Odyssey", "imageName": "space_wallpaper" }
   ],
 }
