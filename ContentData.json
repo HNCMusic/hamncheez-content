@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "upcomingRelease": {
     "id": "hot-one",
     "title": "HOT ONE",
@@ -8,7 +8,7 @@
     "timeZoneID": "America/Chicago",
     "coverImageName": "hotone_cover",
     "presaveUrl": "https://distrokid.com/hyperfollow/hamcheez/hot-one?ref=release"
-    },
+  },
   "shows": [
     {
       "id": "show-001",
@@ -16,7 +16,7 @@
       "city": "Chicago, IL",
       "date": "2026-11-13T21:00:00-06:00",
       "timeZoneID": "America/Chicago",
-      "ticketUrl": "https://theticketing.co/e/astrlavenuedebsfridaythe13th?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAae0aF8niesEeW-z9dUEY-_-Mm9FKwcDsEAFSwIVd976fuhbxC1cwAI7vlC42w_aem_2HL8zJqtb2ptrWamQrEjIg",
+      "ticketUrl": "https://metrochicago.com",
       "note": "A night with da bois",
       "flyerImageName": "debstepfriends_show_cover",
       "latitude": 41.9399,
@@ -34,7 +34,7 @@
       "flyerImageName": null,
       "latitude": 41.7651,
       "longitude": -87.8043,
-      "setlist": null
+      "setlist": []
     },
     {
       "id": "show-003",
@@ -44,7 +44,7 @@
       "timeZoneID": "America/Chicago",
       "ticketUrl": "https://www.northcoastfestival.com",
       "note": "First Music Festival, LFG!",
-      "flyerImageName": "ncmf_tracklist",
+      "flyerImageName": null,
       "latitude": 41.7651,
       "longitude": -87.8043,
       "setlist": []
@@ -54,36 +54,59 @@
     {
       "id": "rel-001",
       "title": "HAM Ñ CHEEZ B2B 8TH LIFE. - SUMMERS LAST DANCE 2026 MIX",
-      "releaseType": "MIX", "releaseYear": "2026",
-      "coverImageName": "sld26_mix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-b2b-8th-life" }
+      "releaseType": "MIX",
+      "releaseYear": "2026",
+      "coverImageName": "sld26_mix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-b2b-8th-life"
+      }
     },
     {
       "id": "rel-002",
       "title": "HAM Ñ CHEEZ - Live @ North Coast Music Festival - The Shipyard Stage",
-      "releaseType": "MIX", "releaseYear": "2026",
-      "coverImageName": "ncmf26_mix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-live-north-coast" }
+      "releaseType": "MIX",
+      "releaseYear": "2026",
+      "coverImageName": "ncmf26_mix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-live-north-coast"
+      }
     },
     {
       "id": "rel-003",
       "title": "Big Gigantic & AVELLO - Psychedelic Symphony (HAM Ñ CHEEZ REMIX)",
-      "releaseType": "REMIX", "releaseYear": "2026",
-      "coverImageName": "ps_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/psychedelic-symphony-ham-n-3" }
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "ps_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/psychedelic-symphony-ham-n-3"
+      }
     },
     {
       "id": "rel-004",
       "title": "Gouda & Gabana",
-      "releaseType": "SINGLE", "releaseYear": "2026",
-      "coverImageName": "gg_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/gouda-gabana" }
+      "releaseType": "SINGLE",
+      "releaseYear": "2026",
+      "coverImageName": "gg_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/gouda-gabana"
+      }
     },
     {
       "id": "rel-005",
       "title": "RUÑ",
-      "releaseType": "SINGLE", "releaseYear": "2026",
-      "coverImageName": "run_cover", "coverArtSymbol": "sparkles.rectangle.stack.fill", "accent": "purple",
+      "releaseType": "SINGLE",
+      "releaseYear": "2026",
+      "coverImageName": "run_cover",
+      "coverArtSymbol": "sparkles.rectangle.stack.fill",
+      "accent": "purple",
       "links": {
         "spotify": "https://open.spotify.com/album/0PTN4LagcETan2XPrVfupa",
         "soundcloud": "https://soundcloud.com/ham-cheez-292446343/run",
@@ -94,91 +117,148 @@
     {
       "id": "rel-006",
       "title": "Noirkxtty - Rotten (HAM Ñ CHEEZ FLIP)",
-      "releaseType": "FLIP", "releaseYear": "2026",
-      "coverImageName": "rotten_flip_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/rotten-noirkxxty-ham-n-cheez" }
+      "releaseType": "FLIP",
+      "releaseYear": "2026",
+      "coverImageName": "rotten_flip_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/rotten-noirkxxty-ham-n-cheez"
+      }
     },
     {
       "id": "rel-007",
       "title": "John Summit - LIGHTS GO OUT (HAM Ñ CHEEZ REMIX)",
-      "releaseType": "REMIX", "releaseYear": "2026",
-      "coverImageName": "lgo_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/lightsgoout" }
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "lgo_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/lightsgoout"
+      }
     },
     {
       "id": "rel-008",
       "title": "VIBRATE",
-      "releaseType": "SINGLE", "releaseYear": "2026",
-      "coverImageName": "vibrate_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "appleMusic": "https://music.apple.com/us/album/vibrate/1870415458?i=1870415459" }
+      "releaseType": "SINGLE",
+      "releaseYear": "2026",
+      "coverImageName": "vibrate_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "appleMusic": "https://music.apple.com/us/album/vibrate/1870415458?i=1870415459"
+      }
     },
     {
       "id": "rel-009",
       "title": "Fresh Off The Griddle (Showcase Mix)",
-      "releaseType": "MIX", "releaseYear": "2026",
-      "coverImageName": "fotgv1_mix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/9454719d-515b-4fe2-8c31-61e377dfd43d" }
+      "releaseType": "MIX",
+      "releaseYear": "2026",
+      "coverImageName": "fotgv1_mix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/9454719d-515b-4fe2-8c31-61e377dfd43d"
+      }
     },
     {
       "id": "rel-010",
       "title": "BONNIE X CLYDE - When The Silence Breaks (HAM Ñ CHEEZ REMIX)",
-      "releaseType": "REMIX", "releaseYear": "2026",
-      "coverImageName": "wtsb_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/silence_breaks_140-ham-n-cheez" }
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "wtsb_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/silence_breaks_140-ham-n-cheez"
+      }
     },
     {
       "id": "rel-011",
       "title": "RETRACED - Nurko x Haliene (HAM Ñ CHEEZ REMIX)",
-      "releaseType": "REMIX", "releaseYear": "2026",
-      "coverImageName": "retraced_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/retraced-nurko-x-haliene-hnc" }
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "retraced_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/retraced-nurko-x-haliene-hnc"
+      }
     },
     {
       "id": "rel-012",
       "title": "Deli Special EP",
-      "releaseType": "EP", "releaseYear": "2026",
-      "coverImageName": "ds_ep_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
+      "releaseType": "EP",
+      "releaseYear": "2026",
+      "coverImageName": "ds_ep_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
       "links": {}
     },
     {
       "id": "rel-013",
       "title": "Marshmello - Just Can't Stop (HAM Ñ CHEEZ) Remix",
-      "releaseType": "REMIX", "releaseYear": "2026",
-      "coverImageName": "jcs_remix_cover", "coverArtSymbol": "waveform.circle.fill", "accent": "yellow",
-      "links": { "soundcloud": "https://soundcloud.com/ham-cheez-292446343/marshmello-just-cant-stop-ham" }
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "jcs_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/marshmello-just-cant-stop-ham"
+      }
     }
   ],
   "merch": [
     {
-      "id": "merch-001", "title": "HAM Ñ CHEEZ NCMF Shirt", "category": "Apparel", "price": "$30.00",
-      "iconSymbol": "tshirt.fill", "imageName": "ncmf_shirt_back", "isSoldOut": true,
+      "id": "merch-001",
+      "title": "HAM Ñ CHEEZ NCMF Shirt",
+      "category": "Apparel",
+      "price": "$30.00",
+      "iconSymbol": "tshirt.fill",
+      "imageName": "ncmf_shirt_back",
+      "isSoldOut": true,
       "orderUrl": null
     },
     {
-      "id": "merch-002", "title": "B/W OG Logo Shirt", "category": "Apparel", "price": "$25.00",
-      "iconSymbol": "tshirt", "imageName": "bwog_shirt_back", "isSoldOut": true,
+      "id": "merch-002",
+      "title": "B/W OG Logo Shirt",
+      "category": "Apparel",
+      "price": "$25.00",
+      "iconSymbol": "tshirt",
+      "imageName": "bwog_shirt_back",
+      "isSoldOut": true,
       "orderUrl": null
     },
     {
-      "id": "merch-003", "title": "OG Colorful Logo Shirt", "category": "Apparel", "price": "$25.00",
-      "iconSymbol": "tshirt", "imageName": "ogwhite_shirt_back", "isSoldOut": true,
+      "id": "merch-003",
+      "title": "OG Colorful Logo Shirt",
+      "category": "Apparel",
+      "price": "$25.00",
+      "iconSymbol": "tshirt",
+      "imageName": "ogwhite_shirt_back",
+      "isSoldOut": true,
       "orderUrl": null
     }
   ],
   "goodies": [
-      {
-        "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
-        "icon": "photo.fill", "url": null, "unlock": "free", "destination": "wallpapers"
-      }
-      
     {
-      "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
-      "icon": "photo.fill", "url": null, "unlock": "checkin"
+      "id": "goodie-bootleg",
+      "title": "VIP Bootleg Pack",
+      "subtitle": "Unreleased VIP edits from the tour.",
+      "icon": "arrow.down.circle.fill",
+      "url": null,
+      "unlock": "signup"
+    },
+    {
+      "id": "goodie-wallpapers",
+      "title": "Phone Wallpapers",
+      "subtitle": "Pixel art backgrounds.",
+      "icon": "photo.fill",
+      "url": null,
+      "unlock": "free",
+      "destination": "wallpapers"
     }
-  ],
-  "wallpapers": [
-    { "id": "wp-001", "title": "Lava Deli", "imageName": "wallpaper_lava" },
-    { "id": "wp-002", "title": "Cheese Moon", "imageName": "wallpaper_deli" }
   ],
   "recipes": [
     {
@@ -204,6 +284,12 @@
     }
   ],
   "socialLinks": [
-    { "id": "soundcloud", "title": "SoundCloud", "icon": "waveform", "url": "https://soundcloud.com/ham-cheez-292446343" }
-  ]
+    {
+      "id": "soundcloud",
+      "title": "SoundCloud",
+      "icon": "waveform",
+      "url": "https://soundcloud.com/ham-cheez-292446343"
+    }
+  ],
+  "wallpapers": []
 }
