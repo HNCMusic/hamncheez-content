@@ -16,7 +16,7 @@
       "city": "Chicago, IL",
       "date": "2026-11-13T21:00:00-06:00",
       "timeZoneID": "America/Chicago",
-      "ticketUrl": "https://metrochicago.com",
+      "ticketUrl": "https://theticketing.co/e/astrlavenuedebsfridaythe13th?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAae0aF8niesEeW-z9dUEY-_-Mm9FKwcDsEAFSwIVd976fuhbxC1cwAI7vlC42w_aem_2HL8zJqtb2ptrWamQrEjIg",
       "note": "A night with da bois",
       "flyerImageName": "debstepfriends_show_cover",
       "latitude": 41.9399,
@@ -34,7 +34,7 @@
       "flyerImageName": null,
       "latitude": 41.7651,
       "longitude": -87.8043,
-      "setlist": []
+      "setlist": null
     },
     {
       "id": "show-003",
@@ -44,7 +44,7 @@
       "timeZoneID": "America/Chicago",
       "ticketUrl": "https://www.northcoastfestival.com",
       "note": "First Music Festival, LFG!",
-      "flyerImageName": null,
+      "flyerImageName": "ncmf_tracklist",
       "latitude": 41.7651,
       "longitude": -87.8043,
       "setlist": []
