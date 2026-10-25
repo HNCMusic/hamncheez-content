@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "upcomingRelease": {
     "id": "hot-one",
     "title": "HOT ONE",
@@ -173,7 +173,7 @@
       
     {
       "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
-      "icon": "photo.fill", "url": null, "unlock": "free", "destination": "wallpapers"
+      "icon": "photo.fill", "url": null, "unlock": "checkin"
     }
   ],
   "wallpapers": [
