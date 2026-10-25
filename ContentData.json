@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "upcomingRelease": {
     "id": "hot-one",
     "title": "HOT ONE",
@@ -166,14 +166,19 @@
     }
   ],
   "goodies": [
-    {
-      "id": "goodie-bootleg", "title": "VIP Bootleg Pack", "subtitle": "Unreleased VIP edits from the tour.",
-      "icon": "arrow.down.circle.fill", "url": null, "unlock": "signup"
-    },
+      {
+        "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
+        "icon": "photo.fill", "url": null, "unlock": "free", "destination": "wallpapers"
+      }
+      
     {
       "id": "goodie-wallpapers", "title": "Phone Wallpapers", "subtitle": "Pixel art backgrounds.",
       "icon": "photo.fill", "url": null, "unlock": "checkin"
     }
+  ],
+  "wallpapers": [
+    { "id": "wp-001", "title": "Lava Deli", "imageName": "wallpaper_lava" },
+    { "id": "wp-002", "title": "Cheese Moon", "imageName": "wallpaper_deli" }
   ],
   "recipes": [
     {
