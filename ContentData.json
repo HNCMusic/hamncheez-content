@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "upcomingRelease": {
     "id": "hot-one",
     "title": "HOT ONE",
@@ -7,8 +7,8 @@
     "date": "2026-11-13T09:00:00-06:00",
     "timeZoneID": "America/Chicago",
     "coverImageName": "hotone_cover",
-    "presaveUrl": "https://distrokid.com/hyperfollow/hamcheez/hot-one?ref=release",
-  },
+    "presaveUrl": "https://distrokid.com/hyperfollow/hamcheez/hot-one?ref=release"
+    },
   "shows": [
     {
       "id": "show-001",
@@ -158,7 +158,7 @@
       "id": "merch-002", "title": "B/W OG Logo Shirt", "category": "Apparel", "price": "$25.00",
       "iconSymbol": "tshirt", "imageName": "bwog_shirt_back", "isSoldOut": true,
       "orderUrl": null
-    }
+    },
     {
       "id": "merch-003", "title": "OG Colorful Logo Shirt", "category": "Apparel", "price": "$25.00",
       "iconSymbol": "tshirt", "imageName": "ogwhite_shirt_back", "isSoldOut": true,
@@ -186,7 +186,7 @@
         "3 slices of Kirkland Signature Extra Lean Uncured Ham",
         "2 slices of Adams Reserve Extra Sharp Cheddar",
         "1 tbsp Kirkland Grass-Fed salted butter (room temperature)",
-        "1 tbsp Chosen Foods Avocado Oil Classic Mayo",
+        "1 tbsp Chosen Foods Avocado Oil Classic Mayo"
       ],
       "instructions": [
         "Mix the butter with the mayo.",
@@ -196,7 +196,7 @@
         "Enjoy"
       ],
       "artistNote": "Low heat is key so the Cheddar gets melty before the bread gets TOO Toasted."
-    },
+    }
   ],
   "socialLinks": [
     { "id": "soundcloud", "title": "SoundCloud", "icon": "waveform", "url": "https://soundcloud.com/ham-cheez-292446343" }
