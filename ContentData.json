@@ -150,14 +150,19 @@
   ],
   "merch": [
     {
-      "id": "merch-001", "title": "HAM Ñ CHEEZ Tour Hoodie", "category": "Apparel", "price": "$75.00",
-      "iconSymbol": "tshirt.fill", "imageName": null, "isSoldOut": true,
-      "orderUrl": "https://store.hamncheez.com/hoodie"
+      "id": "merch-001", "title": "HAM Ñ CHEEZ NCMF Shirt", "category": "Apparel", "price": "$30.00",
+      "iconSymbol": "tshirt.fill", "imageName": "ncmf_shirt_back", "isSoldOut": true,
+      "orderUrl": null
     },
     {
-      "id": "merch-002", "title": "Gouda & Gabana Vintage Tee", "category": "Apparel", "price": "$38.00",
-      "iconSymbol": "tshirt", "imageName": null, "isSoldOut": true,
-      "orderUrl": "https://store.hamncheez.com/tee"
+      "id": "merch-002", "title": "B/W OG Logo Shirt", "category": "Apparel", "price": "$25.00",
+      "iconSymbol": "tshirt", "imageName": "bwog_shirt_back", "isSoldOut": true,
+      "orderUrl": null
+    }
+    {
+      "id": "merch-003", "title": "OG Colorful Logo Shirt", "category": "Apparel", "price": "$25.00",
+      "iconSymbol": "tshirt", "imageName": "ogwhite_shirt_back", "isSoldOut": true,
+      "orderUrl": null
     }
   ],
   "goodies": [
@@ -173,45 +178,25 @@
   "recipes": [
     {
       "id": "recipe-001",
-      "name": "The Tour Bus Classic Toasted Brioche",
+      "name": "The Show Stopper",
       "tag": "Artist Staple",
-      "prepTime": "8 mins",
-      "ingredients": [
-        "2 thick slices of brioche or challah bread",
-        "4 slices of high-grade smoked black forest ham",
-        "2 slices of aged Gruyère cheese (or sharp Swiss)",
-        "1 tbsp salted butter (room temperature)",
-        "1 tsp whole-grain Dijon mustard",
-        "Pinch of cracked black pepper"
-      ],
-      "instructions": [
-        "Generously butter the outside of each brioche slice.",
-        "Spread whole-grain Dijon on the inside of one slice.",
-        "Layer one slice of Gruyère, all the smoked ham folded loosely for airflow, the second Gruyère slice, and cracked pepper.",
-        "Heat a cast iron skillet over medium-low heat. Toast sandwich for 3 minutes per side with a light press until golden brown and the cheese is thoroughly melted."
-      ],
-      "artistNote": "Our 2:00 AM post-soundcheck ritual. Low heat is key so the Gruyère gets molten before the brioche burns."
-    },
-    {
-      "id": "recipe-002",
-      "name": "Hot Honey & Smoked Gouda Melt",
-      "tag": "Sweet & Spicy",
       "prepTime": "10 mins",
       "ingredients": [
-        "2 slices artisan sourdough",
-        "3 slices honey-cured ham",
-        "2 slices smoked Gouda cheese",
-        "1 tbsp hot chili honey",
-        "1 tbsp garlic-herb butter"
+        "2 slices of Artesano Original White Bread",
+        "3 slices of Kirkland Signature Extra Lean Uncured Ham",
+        "2 slices of Adams Reserve Extra Sharp Cheddar",
+        "1 tbsp Kirkland Grass-Fed salted butter (room temperature)",
+        "1 tbsp Chosen Foods Avocado Oil Classic Mayo",
       ],
       "instructions": [
-        "Melt garlic butter across the exterior sourdough crust.",
-        "Drizzle hot honey over the ham slices before placing in the sandwich.",
-        "Layer Gouda on both top and bottom to lock in moisture.",
-        "Pan sear for 3.5 minutes per side until the crust is deeply crunchy and caramelized."
+        "Mix the butter with the mayo.",
+        "Generously spread the combo on each slice of bread.",
+        "Layer one slice of ham, one slice of cheddar, one slice of ham, one slice of cheddar, one slice of ham.",
+        "Heat a cast iron skillet over medium-low heat. Toast sandwich for 3 minutes per side with a light press until golden brown and the cheese is thoroughly melted.",
+        "Enjoy"
       ],
-      "artistNote": "Inspired by late-night diner runs after playing Nashville."
-    }
+      "artistNote": "Low heat is key so the Cheddar gets melty before the bread gets TOO Toasted."
+    },
   ],
   "socialLinks": [
     { "id": "soundcloud", "title": "SoundCloud", "icon": "waveform", "url": "https://soundcloud.com/ham-cheez-292446343" }
