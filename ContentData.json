@@ -1,5 +1,5 @@
         {
-          "version": 8,
+          "version": 9,
           "upcomingRelease": {
             "id": "hot-one",
             "title": "HOT ONE",
@@ -289,7 +289,7 @@
               "subtitle": "Unreleased VIP edits from the tour.",
               "icon": "arrow.down.circle.fill",
               "url": null,
-              "unlock": "signup"
+              "unlock": "follow"
             },
             {
               "id": "goodie-wallpapers",
@@ -297,7 +297,7 @@
               "subtitle": "Pixel art backgrounds.",
               "icon": "photo.fill",
               "url": null,
-              "unlock": "free",
+              "unlock": "follow",
               "destination": "wallpapers"
             }
           ],
