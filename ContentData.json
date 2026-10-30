@@ -1,350 +1,350 @@
-        {
-          "version": 10,
-          "upcomingRelease": {
-            "id": "hot-one",
-            "title": "HOT ONE",
-            "subtitle": "HAM Ñ CHEEZ • Official Single Release",
-            "date": "2026-11-13T09:00:00-06:00",
-            "timeZoneID": "America/Chicago",
-            "coverImageName": "hotone_cover",
-            "presaveUrl": "https://distrokid.com/hyperfollow/hamcheez/hot-one?ref=release"
-          },
-          "shows": [
-            {
-              "id": "show-001",
-              "venue": "Debstep & Friends",
-              "city": "Chicago, IL",
-              "date": "2026-11-13T21:00:00-06:00",
-              "timeZoneID": "America/Chicago",
-              "ticketUrl": "https://theticketing.co/e/astrlavenuedebsfridaythe13th?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaeEyIwGNX5A3Rf5VO5f9On-g8QuL49XkXXyx2V5ZKppV6tRQ3ofH9yOkwbIhQ_aem_yDQwS0zX5KYmooJv4ByKJw",
-              "note": "A night with da bois",
-              "flyerImageName": "debstepfriends_show_cover",
-              "latitude": 41.9399,
-              "longitude": -87.6587,
-              "setlist": null
-            },
-            {
-              "id": "show-002",
-              "venue": "Summers Last Dance Music Festival",
-              "city": "Bridgeview, IL",
-              "date": "2026-09-19T20:00:00-05:00",
-              "timeZoneID": "America/Chicago",
-              "ticketUrl": "https://summerslastdance.com",
-              "note": "Summers Last Dance Music Festival",
-              "flyerImageName": "sld26_flyer",
-              "latitude": 41.7651,
-              "longitude": -87.8043,
-              "setlist": null
-            },
-            {
-              "id": "show-003",
-              "venue": "North Coast Music Festival",
-              "city": "Bridgeview, IL",
-              "date": "2026-09-06T15:00:00-05:00",
-              "timeZoneID": "America/Chicago",
-              "ticketUrl": "https://www.northcoastfestival.com",
-              "note": "First Music Festival, LFG!",
-              "flyerImageName": "ncmf_tracklist",
-              "latitude": 41.7651,
-              "longitude": -87.8043,
-              "setlist": [
-                    { "order": 1, "title": "FORMULA ID", "artist": "HAM Ñ CHEEZ", "link": null },
-                    { "order": 2, "title": "Just Can't Stop (HAM Ñ CHEEZ) REMIX VIP ID", "artist": "Marshmello", "link": null },
-                    { "order": 3, "title": "Distopia", "artist": "NVRT", "link": null },
-                    { "order": 4, "title": "Fight Me x Lockdown (HAM Ñ CHEEZ) EDIT", "artist": "Kliptic, Vastive, Wooli, Excision", "link": null },
-                    { "order": 5, "title": "Fight Milk x Punishment (HAM Ñ CHEEZ) EDIT", "artist": "Kompany, Wooli, Chassi, Stoned Level", "link": null },
-                    { "order": 6, "title": "HOOLIGANS", "artist": "GHENGAR, Izzy Vadim", "link": null },
-                    { "order": 7, "title": "MELLOFIRE (IVORY Remix)", "artist": "Marshmello & Samplifire", "link": null },
-                    { "order": 8, "title": "Dominate (FINNUH Bootleg)", "artist": "Space Laces", "link": null },
-                    { "order": 9, "title": "Outer Crust", "artist": "HAM Ñ CHEEZ", "link": null },
-                    { "order": 10, "title": "LIGHTS GO OUT (HAM Ñ CHEEZ) Remix", "artist": "John Summit", "link": null },
-                    { "order": 11, "title": "ID", "artist": "HAM Ñ CHEEZ", "link": null },
-                    { "order": 12, "title": "REMIX ID", "artist": "HARDFLIP, HAM Ñ CHEEZ", "link": null },
-                    { "order": 13, "title": "ID", "artist": "MANDE?, HAM Ñ CHEEZ", "link": null },
-                    { "order": 14, "title": "REMIX ID", "artist": "HAM Ñ CHEEZ", "link": null },
-                    { "order": 15, "title": "ID", "artist": "T-TRIPPIN, HAM Ñ CHEEZ", "link": null },
-                    { "order": 16, "title": "ID", "artist": "YUMMIR, HAM Ñ CHEEZ", "link": null },
-                    { "order": 17, "title": "Dos Mil 16 (Proxy's Future Riddim Edit)", "artist": "Bad Bunny", "link": null },
-                    { "order": 18, "title": "VIBRATE", "artist": "HAM Ñ CHEEZ", "link": null },
-                    { "order": 19, "title": "Waiting For Pt.1", "artist": "MATIY ICE", "link": null },
-                    { "order": 20, "title": "RAY CAT", "artist": "Machima, Hazcat", "link": null },
-                    { "order": 21, "title": "ARE YOU READY?", "artist": "DEBSTEP", "link": null },
-                    { "order": 22, "title": "Grove St. Party x Smack Talk (SLICK & 808gong) Edit", "artist": "SLICK & 808gong", "link": null },
-                    { "order": 23, "title": "Run This Town (Mattilo Remix)", "artist": "Rihanna", "link": null },
-                    { "order": 24, "title": "Baiana (SIR GIO & Beatz Freq Edit)", "artist": "Barbatuques & DJ Larry-T", "link": null },
-                    { "order": 25, "title": "Cash Out", "artist": "SIDEPIECE & Bobby Shmurda", "link": null },
-                    { "order": 26, "title": "GOODIES x DANGEROUS x TITI ME PREGUNTO (SAM COLLINS MASHUP)", "artist": "SAM COLLINS", "link": null },
-                    { "order": 27, "title": "In Chicago (Orlando Sounds Edit)", "artist": "John Summit, ODD MOB", "link": null },
-                    { "order": 28, "title": "Remix ID", "artist": "Ayoo", "link": null }
-                  ]
-            }
-          ],
-          "releases": [
-              {
-                "id": "rel-001",
-                "title": "HOT ONE",
-                "releaseType": "SINGLE",
-                "releaseYear": "2026",
-                "coverImageName": "hotone_cover",
-                "coverArtSymbol": "waveform.circle.fill",
-                "accent": "yellow",
-                "links": {
-                  "soundcloud": "https://soundcloud.com/ham-cheez-292446343/hotone_140_final-master/s-YAnJ1ySE8kJ"
-                }
-              },
-              {
-                "id": "rel-002",
-              "title": "HAM Ñ CHEEZ B2B 8TH LIFE. - SUMMERS LAST DANCE 2026 MIX",
-              "releaseType": "MIX",
-              "releaseYear": "2026",
-              "coverImageName": "sld26_mix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-b2b-8th-life"
-              }
-            },
-            {
-              "id": "rel-003",
-              "title": "HAM Ñ CHEEZ - Live @ North Coast Music Festival - The Shipyard Stage",
-              "releaseType": "MIX",
-              "releaseYear": "2026",
-              "coverImageName": "ncmf26_mix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-live-north-coast"
-              }
-            },
-            {
-              "id": "rel-004",
-              "title": "Big Gigantic & AVELLO - Psychedelic Symphony (HAM Ñ CHEEZ REMIX)",
-              "releaseType": "REMIX",
-              "releaseYear": "2026",
-              "coverImageName": "ps_remix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/psychedelic-symphony-ham-n-3"
-              }
-            },
-            {
-              "id": "rel-005",
-              "title": "Gouda & Gabana",
-              "releaseType": "SINGLE",
-              "releaseYear": "2026",
-              "coverImageName": "gg_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/gouda-gabana"
-              }
-            },
-            {
-              "id": "rel-006",
-              "title": "RUÑ",
-              "releaseType": "SINGLE",
-              "releaseYear": "2026",
-              "coverImageName": "run_cover",
-              "coverArtSymbol": "sparkles.rectangle.stack.fill",
-              "accent": "purple",
-              "links": {
-                "spotify": "https://open.spotify.com/album/0PTN4LagcETan2XPrVfupa",
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/run",
-                "appleMusic": "https://music.apple.com/us/album/ru%C3%B1/6783249470?i=6783249471",
-                "youtube": "https://music.youtube.com/watch?v=xaLSspfFPPw"
-              }
-            },
-            {
-              "id": "rel-007",
-              "title": "Noirkxtty - Rotten (HAM Ñ CHEEZ FLIP)",
-              "releaseType": "FLIP",
-              "releaseYear": "2026",
-              "coverImageName": "rotten_flip_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/rotten-noirkxxty-ham-n-cheez"
-              }
-            },
-            {
-              "id": "rel-008",
-              "title": "John Summit - LIGHTS GO OUT (HAM Ñ CHEEZ REMIX)",
-              "releaseType": "REMIX",
-              "releaseYear": "2026",
-              "coverImageName": "lgo_remix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/lightsgoout"
-              }
-            },
-            {
-              "id": "rel-009",
-              "title": "VIBRATE",
-              "releaseType": "SINGLE",
-              "releaseYear": "2026",
-              "coverImageName": "vibrate_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "appleMusic": "https://music.apple.com/us/album/vibrate/1870415458?i=1870415459"
-              }
-            },
-            {
-              "id": "rel-010",
-              "title": "Fresh Off The Griddle (Showcase Mix)",
-              "releaseType": "MIX",
-              "releaseYear": "2026",
-              "coverImageName": "fotgv1_mix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/9454719d-515b-4fe2-8c31-61e377dfd43d"
-              }
-            },
-            {
-              "id": "rel-011",
-              "title": "BONNIE X CLYDE - When The Silence Breaks (HAM Ñ CHEEZ REMIX)",
-              "releaseType": "REMIX",
-              "releaseYear": "2026",
-              "coverImageName": "wtsb_remix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/silence_breaks_140-ham-n-cheez"
-              }
-            },
-            {
-              "id": "rel-012",
-              "title": "RETRACED - Nurko x Haliene (HAM Ñ CHEEZ REMIX)",
-              "releaseType": "REMIX",
-              "releaseYear": "2026",
-              "coverImageName": "retraced_remix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/retraced-nurko-x-haliene-hnc"
-              }
-            },
-            {
-              "id": "rel-013",
-              "title": "Deli Special EP",
-              "releaseType": "EP",
-              "releaseYear": "2026",
-              "coverImageName": "ds_ep_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {}
-            },
-            {
-              "id": "rel-014",
-              "title": "Marshmello - Just Can't Stop (HAM Ñ CHEEZ) Remix",
-              "releaseType": "REMIX",
-              "releaseYear": "2026",
-              "coverImageName": "jcs_remix_cover",
-              "coverArtSymbol": "waveform.circle.fill",
-              "accent": "yellow",
-              "links": {
-                "soundcloud": "https://soundcloud.com/ham-cheez-292446343/marshmello-just-cant-stop-ham"
-              }
-            }
-          ],
-          "merch": [
-            {
-              "id": "merch-001",
-              "title": "HAM Ñ CHEEZ NCMF Shirt",
-              "category": "Apparel",
-              "price": "$30.00",
-              "iconSymbol": "tshirt.fill",
-              "imageName": "ncmf_shirt_back",
-              "isSoldOut": true,
-              "orderUrl": null
-            },
-            {
-              "id": "merch-002",
-              "title": "B/W OG Logo Shirt",
-              "category": "Apparel",
-              "price": "$25.00",
-              "iconSymbol": "tshirt",
-              "imageName": "bwog_shirt_back",
-              "isSoldOut": true,
-              "orderUrl": null
-            },
-            {
-              "id": "merch-003",
-              "title": "OG Colorful Logo Shirt",
-              "category": "Apparel",
-              "price": "$25.00",
-              "iconSymbol": "tshirt",
-              "imageName": "ogwhite_shirt_back",
-              "isSoldOut": true,
-              "orderUrl": null
-            }
-          ],
-          "goodies": [
-            {
-              "id": "goodie-bootleg",
-              "title": "VIP Bootleg Pack",
-              "subtitle": "Unreleased VIP edits from the tour.",
-              "icon": "arrow.down.circle.fill",
-              "url": null,
-              "unlock": "signup"
-            },
-            {
-              "id": "goodie-wallpapers",
-              "title": "Phone Wallpapers",
-              "subtitle": "Pixel art backgrounds.",
-              "icon": "photo.fill",
-              "url": null,
-              "unlock": "signup",
-              "destination": "wallpapers"
-            }
-          ],
-          "recipes": [
-            {
-              "id": "recipe-001",
-              "name": "The Show Stopper",
-              "tag": "Artist Staple",
-              "prepTime": "10 mins",
-              "ingredients": [
-                "2 slices of Artesano Original White Bread",
-                "3 slices of Kirkland Signature Extra Lean Uncured Ham",
-                "2 slices of Adams Reserve Extra Sharp Cheddar",
-                "1 tbsp Kirkland Grass-Fed salted butter (room temperature)",
-                "1 tbsp Chosen Foods Avocado Oil Classic Mayo"
-              ],
-              "instructions": [
-                "Mix the butter with the mayo.",
-                "Generously spread the combo on each slice of bread.",
-                "Layer one slice of ham, one slice of cheddar, one slice of ham, one slice of cheddar, one slice of ham.",
-                "Heat a cast iron skillet over medium-low heat. Toast sandwich for 3 minutes per side with a light press until golden brown and the cheese is thoroughly melted.",
-                "Enjoy"
-              ],
-              "artistNote": "Low heat is key so the Cheddar gets melty before the bread gets TOO Toasted."
-            }
-          ],
-          "socialLinks": [
-            {
-              "id": "soundcloud",
-              "title": "SoundCloud",
-              "icon": "waveform",
-              "url": "https://soundcloud.com/ham-cheez-292446343"
-            }
-          ],
-          "wallpapers": [
-            { "id": "wp-001", "title": "NIGHTMODE LOGO", "imageName": "bw_logo", "category": "Logos" },
-            { "id": "wp-002", "title": "The Classic", "imageName": "color_logo", "category": "Logos" },
-            { "id": "wp-003", "title": "Just Can't Stop Remix", "imageName": "jcs_wallpaper", "category": "Tracks" },
-            { "id": "wp-004", "title": "The Butcher", "imageName": "butcher_wallpaper", "category": "Special" },
-            { "id": "wp-005", "title": "RUN", "imageName": "run_wallpaper", "category": "Tracks" },
-            { "id": "wp-006", "title": "YØU DØ", "imageName": "youdo_wallpaper", "category": "Tracks" },
-            { "id": "wp-007", "title": "Spring Awaynekening EVENT", "imageName": "waynekening_wallpaper", "category": "Event Flyers" },
-            { "id": "wp-008", "title": "Toasted", "imageName": "toaster_wallpaper", "category": "Special" },
-            { "id": "wp-009", "title": "The 9-5", "imageName": "delishop2_wallpaper", "category": "Special" },
-            { "id": "wp-010", "title": "The 5 Nights at ...", "imageName": "delishop_wallpaper", "category": "Special" },
-            { "id": "wp-011", "title": "A Space Odyssey", "imageName": "space_wallpaper", "category": "Special" },
-            { "id": "wp-012", "title": "Starburst", "imageName": "explosion_wallpaper", "category": "Logos" }
-            
+{
+  "version": 10,
+  "upcomingRelease": {
+    "id": "hot-one",
+    "title": "HOT ONE",
+    "subtitle": "HAM Ñ CHEEZ • Official Single Release",
+    "date": "2026-11-13T09:00:00-06:00",
+    "timeZoneID": "America/Chicago",
+    "coverImageName": "hotone_cover",
+    "presaveUrl": "https://distrokid.com/hyperfollow/hamcheez/hot-one?ref=release"
+  },
+  "shows": [
+    {
+      "id": "show-001",
+      "venue": "Debstep & Friends",
+      "city": "Chicago, IL",
+      "date": "2026-11-13T21:00:00-06:00",
+      "timeZoneID": "America/Chicago",
+      "ticketUrl": "https://theticketing.co/e/astrlavenuedebsfridaythe13th?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaeEyIwGNX5A3Rf5VO5f9On-g8QuL49XkXXyx2V5ZKppV6tRQ3ofH9yOkwbIhQ_aem_yDQwS0zX5KYmooJv4ByKJw",
+      "note": "A night with da bois",
+      "flyerImageName": "debstepfriends_show_cover",
+      "latitude": 41.9399,
+      "longitude": -87.6587,
+      "setlist": null
+    },
+    {
+      "id": "show-002",
+      "venue": "Summers Last Dance Music Festival",
+      "city": "Bridgeview, IL",
+      "date": "2026-09-19T20:00:00-05:00",
+      "timeZoneID": "America/Chicago",
+      "ticketUrl": "https://summerslastdance.com",
+      "note": "Summers Last Dance Music Festival",
+      "flyerImageName": "sld26_flyer",
+      "latitude": 41.7651,
+      "longitude": -87.8043,
+      "setlist": null
+    },
+    {
+      "id": "show-003",
+      "venue": "North Coast Music Festival",
+      "city": "Bridgeview, IL",
+      "date": "2026-09-06T15:00:00-05:00",
+      "timeZoneID": "America/Chicago",
+      "ticketUrl": "https://www.northcoastfestival.com",
+      "note": "First Music Festival, LFG!",
+      "flyerImageName": "ncmf_tracklist",
+      "latitude": 41.7651,
+      "longitude": -87.8043,
+      "setlist": [
+            { "order": 1, "title": "FORMULA ID", "artist": "HAM Ñ CHEEZ", "link": null },
+            { "order": 2, "title": "Just Can't Stop (HAM Ñ CHEEZ) REMIX VIP ID", "artist": "Marshmello", "link": null },
+            { "order": 3, "title": "Distopia", "artist": "NVRT", "link": null },
+            { "order": 4, "title": "Fight Me x Lockdown (HAM Ñ CHEEZ) EDIT", "artist": "Kliptic, Vastive, Wooli, Excision", "link": null },
+            { "order": 5, "title": "Fight Milk x Punishment (HAM Ñ CHEEZ) EDIT", "artist": "Kompany, Wooli, Chassi, Stoned Level", "link": null },
+            { "order": 6, "title": "HOOLIGANS", "artist": "GHENGAR, Izzy Vadim", "link": null },
+            { "order": 7, "title": "MELLOFIRE (IVORY Remix)", "artist": "Marshmello & Samplifire", "link": null },
+            { "order": 8, "title": "Dominate (FINNUH Bootleg)", "artist": "Space Laces", "link": null },
+            { "order": 9, "title": "Outer Crust", "artist": "HAM Ñ CHEEZ", "link": null },
+            { "order": 10, "title": "LIGHTS GO OUT (HAM Ñ CHEEZ) Remix", "artist": "John Summit", "link": null },
+            { "order": 11, "title": "ID", "artist": "HAM Ñ CHEEZ", "link": null },
+            { "order": 12, "title": "REMIX ID", "artist": "HARDFLIP, HAM Ñ CHEEZ", "link": null },
+            { "order": 13, "title": "ID", "artist": "MANDE?, HAM Ñ CHEEZ", "link": null },
+            { "order": 14, "title": "REMIX ID", "artist": "HAM Ñ CHEEZ", "link": null },
+            { "order": 15, "title": "ID", "artist": "T-TRIPPIN, HAM Ñ CHEEZ", "link": null },
+            { "order": 16, "title": "ID", "artist": "YUMMIR, HAM Ñ CHEEZ", "link": null },
+            { "order": 17, "title": "Dos Mil 16 (Proxy's Future Riddim Edit)", "artist": "Bad Bunny", "link": null },
+            { "order": 18, "title": "VIBRATE", "artist": "HAM Ñ CHEEZ", "link": null },
+            { "order": 19, "title": "Waiting For Pt.1", "artist": "MATIY ICE", "link": null },
+            { "order": 20, "title": "RAY CAT", "artist": "Machima, Hazcat", "link": null },
+            { "order": 21, "title": "ARE YOU READY?", "artist": "DEBSTEP", "link": null },
+            { "order": 22, "title": "Grove St. Party x Smack Talk (SLICK & 808gong) Edit", "artist": "SLICK & 808gong", "link": null },
+            { "order": 23, "title": "Run This Town (Mattilo Remix)", "artist": "Rihanna", "link": null },
+            { "order": 24, "title": "Baiana (SIR GIO & Beatz Freq Edit)", "artist": "Barbatuques & DJ Larry-T", "link": null },
+            { "order": 25, "title": "Cash Out", "artist": "SIDEPIECE & Bobby Shmurda", "link": null },
+            { "order": 26, "title": "GOODIES x DANGEROUS x TITI ME PREGUNTO (SAM COLLINS MASHUP)", "artist": "SAM COLLINS", "link": null },
+            { "order": 27, "title": "In Chicago (Orlando Sounds Edit)", "artist": "John Summit, ODD MOB", "link": null },
+            { "order": 28, "title": "Remix ID", "artist": "Ayoo", "link": null }
           ]
+    }
+  ],
+  "releases": [
+      {
+        "id": "rel-001",
+        "title": "HOT ONE",
+        "releaseType": "SINGLE",
+        "releaseYear": "2026",
+        "coverImageName": "hotone_cover",
+        "coverArtSymbol": "waveform.circle.fill",
+        "accent": "purple",
+        "links": {
+          "soundcloud": "https://soundcloud.com/ham-cheez-292446343/hotone_140_final-master/s-YAnJ1ySE8kJ"
         }
+      },
+      {
+        "id": "rel-002",
+      "title": "HAM Ñ CHEEZ B2B 8TH LIFE. - SUMMERS LAST DANCE 2026 MIX",
+      "releaseType": "MIX",
+      "releaseYear": "2026",
+      "coverImageName": "sld26_mix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-b2b-8th-life"
+      }
+    },
+    {
+      "id": "rel-003",
+      "title": "HAM Ñ CHEEZ - Live @ North Coast Music Festival - The Shipyard Stage",
+      "releaseType": "MIX",
+      "releaseYear": "2026",
+      "coverImageName": "ncmf26_mix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/ham-n-cheez-live-north-coast"
+      }
+    },
+    {
+      "id": "rel-004",
+      "title": "Big Gigantic & AVELLO - Psychedelic Symphony (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "ps_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/psychedelic-symphony-ham-n-3"
+      }
+    },
+    {
+      "id": "rel-005",
+      "title": "Gouda & Gabana",
+      "releaseType": "SINGLE",
+      "releaseYear": "2026",
+      "coverImageName": "gg_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/gouda-gabana"
+      }
+    },
+    {
+      "id": "rel-006",
+      "title": "RUÑ",
+      "releaseType": "SINGLE",
+      "releaseYear": "2026",
+      "coverImageName": "run_cover",
+      "coverArtSymbol": "sparkles.rectangle.stack.fill",
+      "accent": "purple",
+      "links": {
+        "spotify": "https://open.spotify.com/album/0PTN4LagcETan2XPrVfupa",
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/run",
+        "appleMusic": "https://music.apple.com/us/album/ru%C3%B1/6783249470?i=6783249471",
+        "youtube": "https://music.youtube.com/watch?v=xaLSspfFPPw"
+      }
+    },
+    {
+      "id": "rel-007",
+      "title": "Noirkxtty - Rotten (HAM Ñ CHEEZ FLIP)",
+      "releaseType": "FLIP",
+      "releaseYear": "2026",
+      "coverImageName": "rotten_flip_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/rotten-noirkxxty-ham-n-cheez"
+      }
+    },
+    {
+      "id": "rel-008",
+      "title": "John Summit - LIGHTS GO OUT (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "lgo_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/lightsgoout"
+      }
+    },
+    {
+      "id": "rel-009",
+      "title": "VIBRATE",
+      "releaseType": "SINGLE",
+      "releaseYear": "2026",
+      "coverImageName": "vibrate_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "purple",
+      "links": {
+        "appleMusic": "https://music.apple.com/us/album/vibrate/1870415458?i=1870415459"
+      }
+    },
+    {
+      "id": "rel-010",
+      "title": "Fresh Off The Griddle (Showcase Mix)",
+      "releaseType": "MIX",
+      "releaseYear": "2026",
+      "coverImageName": "fotgv1_mix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/9454719d-515b-4fe2-8c31-61e377dfd43d"
+      }
+    },
+    {
+      "id": "rel-011",
+      "title": "BONNIE X CLYDE - When The Silence Breaks (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "wtsb_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/silence_breaks_140-ham-n-cheez"
+      }
+    },
+    {
+      "id": "rel-012",
+      "title": "RETRACED - Nurko x Haliene (HAM Ñ CHEEZ REMIX)",
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "retraced_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/retraced-nurko-x-haliene-hnc"
+      }
+    },
+    {
+      "id": "rel-013",
+      "title": "Deli Special EP",
+      "releaseType": "EP",
+      "releaseYear": "2026",
+      "coverImageName": "ds_ep_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "purple",
+      "links": {}
+    },
+    {
+      "id": "rel-014",
+      "title": "Marshmello - Just Can't Stop (HAM Ñ CHEEZ) Remix",
+      "releaseType": "REMIX",
+      "releaseYear": "2026",
+      "coverImageName": "jcs_remix_cover",
+      "coverArtSymbol": "waveform.circle.fill",
+      "accent": "yellow",
+      "links": {
+        "soundcloud": "https://soundcloud.com/ham-cheez-292446343/marshmello-just-cant-stop-ham"
+      }
+    }
+  ],
+  "merch": [
+    {
+      "id": "merch-001",
+      "title": "HAM Ñ CHEEZ NCMF Shirt",
+      "category": "Apparel",
+      "price": "$30.00",
+      "iconSymbol": "tshirt.fill",
+      "imageName": "ncmf_shirt_back",
+      "isSoldOut": true,
+      "orderUrl": null
+    },
+    {
+      "id": "merch-002",
+      "title": "B/W OG Logo Shirt",
+      "category": "Apparel",
+      "price": "$25.00",
+      "iconSymbol": "tshirt",
+      "imageName": "bwog_shirt_back",
+      "isSoldOut": true,
+      "orderUrl": null
+    },
+    {
+      "id": "merch-003",
+      "title": "OG Colorful Logo Shirt",
+      "category": "Apparel",
+      "price": "$25.00",
+      "iconSymbol": "tshirt",
+      "imageName": "ogwhite_shirt_back",
+      "isSoldOut": true,
+      "orderUrl": null
+    }
+  ],
+  "goodies": [
+    {
+      "id": "goodie-bootleg",
+      "title": "VIP Bootleg Pack",
+      "subtitle": "Unreleased VIP edits from the tour.",
+      "icon": "arrow.down.circle.fill",
+      "url": null,
+      "unlock": "signup"
+    },
+    {
+      "id": "goodie-wallpapers",
+      "title": "Phone Wallpapers",
+      "subtitle": "Pixel art backgrounds.",
+      "icon": "photo.fill",
+      "url": null,
+      "unlock": "signup",
+      "destination": "wallpapers"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "recipe-001",
+      "name": "The Show Stopper",
+      "tag": "Artist Staple",
+      "prepTime": "10 mins",
+      "ingredients": [
+        "2 slices of Artesano Original White Bread",
+        "3 slices of Kirkland Signature Extra Lean Uncured Ham",
+        "2 slices of Adams Reserve Extra Sharp Cheddar",
+        "1 tbsp Kirkland Grass-Fed salted butter (room temperature)",
+        "1 tbsp Chosen Foods Avocado Oil Classic Mayo"
+      ],
+      "instructions": [
+        "Mix the butter with the mayo.",
+        "Generously spread the combo on each slice of bread.",
+        "Layer one slice of ham, one slice of cheddar, one slice of ham, one slice of cheddar, one slice of ham.",
+        "Heat a cast iron skillet over medium-low heat. Toast sandwich for 3 minutes per side with a light press until golden brown and the cheese is thoroughly melted.",
+        "Enjoy"
+      ],
+      "artistNote": "Low heat is key so the Cheddar gets melty before the bread gets TOO Toasted."
+    }
+  ],
+  "socialLinks": [
+    {
+      "id": "soundcloud",
+      "title": "SoundCloud",
+      "icon": "waveform",
+      "url": "https://soundcloud.com/ham-cheez-292446343"
+    }
+  ],
+  "wallpapers": [
+    { "id": "wp-001", "title": "NIGHTMODE LOGO", "imageName": "bw_logo", "category": "Logos" },
+    { "id": "wp-002", "title": "The Classic", "imageName": "color_logo", "category": "Logos" },
+    { "id": "wp-003", "title": "Just Can't Stop Remix", "imageName": "jcs_wallpaper", "category": "Tracks" },
+    { "id": "wp-004", "title": "The Butcher", "imageName": "butcher_wallpaper", "category": "Special" },
+    { "id": "wp-005", "title": "RUN", "imageName": "run_wallpaper", "category": "Tracks" },
+    { "id": "wp-006", "title": "YØU DØ", "imageName": "youdo_wallpaper", "category": "Tracks" },
+    { "id": "wp-007", "title": "Spring Awaynekening EVENT", "imageName": "waynekening_wallpaper", "category": "Event Flyers" },
+    { "id": "wp-008", "title": "Toasted", "imageName": "toaster_wallpaper", "category": "Special" },
+    { "id": "wp-009", "title": "The 9-5", "imageName": "delishop2_wallpaper", "category": "Special" },
+    { "id": "wp-010", "title": "The 5 Nights at ...", "imageName": "delishop_wallpaper", "category": "Special" },
+    { "id": "wp-011", "title": "A Space Odyssey", "imageName": "space_wallpaper", "category": "Special" },
+    { "id": "wp-012", "title": "Starburst", "imageName": "explosion_wallpaper", "category": "Logos" }
+    
+  ]
+}
